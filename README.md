@@ -1,1 +1,1 @@
-Repositorio para demonstração
+Repositorio para demonstração para o time de QA.
