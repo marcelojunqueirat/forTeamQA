@@ -1,4 +1,10 @@
 body {
     background-color: red;
     color: white;
+    box-sizing: border-box;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
 }
